@@ -1,0 +1,16 @@
+.mainList {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.listContainer {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.userTable {
+  background-color: #fff;
+}

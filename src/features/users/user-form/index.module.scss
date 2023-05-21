@@ -1,0 +1,18 @@
+.formWrap {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formContainer {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.formBtns {
+  display: flex;
+  gap: 10px;
+}
