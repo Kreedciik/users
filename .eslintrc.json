@@ -29,6 +29,8 @@
     "react/jsx-pascal-case": "off",
     "no-unused-vars": "off",
     "object-curly-newline": "off",
+    "no-extra-boolean-cast": "off",
+    "react/jsx-curly-newline": "off",
     "curly": "off",
     "space-before-function-paren": "off",
     "@typescript-eslint/no-unused-vars": ["off", {

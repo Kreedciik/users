@@ -18,7 +18,7 @@ export const useUserForm = (data: IUser | undefined) => {
         setValue(key, data[key]);
       });
     }
-  }, []);
+  }, [setValue, data]);
 
   return { control, errors, handleSubmit };
 };
